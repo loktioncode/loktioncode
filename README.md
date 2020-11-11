@@ -1,4 +1,4 @@
-### Hi there, I am Elisha Bere. I am a Software Developer from Bulawayo, ZW with a passion for UI effects, Animations and Creating intuitive, dynamic user experiences. I am well-versed in numerous programming & design techniques that include React.js, HTML5, JavaScript, Node, CSS, SQL, Mongoose, Wordpress, Flutter, Dart and Python.
+# Hi there, I am Elisha Bere. I am a Software Developer from Bulawayo, ZW with a passion for UI effects, Animations and Creating intuitive, dynamic user experiences. I am well-versed in numerous programming & design techniques that include React.js, HTML5, JavaScript, Node, CSS, SQL, Mongoose, Wordpress, Flutter, Dart and Python.
 
 Let's make something special. 👋
 
