@@ -3,7 +3,7 @@
 Let's make something special. 👋
 
 - 🔭 I’m currently working as a freelance software developer.
-- 🌱 I’m currently learning Backend developement using flask and python.
+- 🌱 I’m currently learning Backend developement using Express and Node.
 - 👯 I’m looking to collaborate on scalable projects that have an impact in our communities.
 - 🤔 I’m looking for help with getting remote gigs...
 - 💬 Ask me about UI development ...
