@@ -2,10 +2,9 @@
 
 Let's make something special. 👋
 
-- 🔭 I’m currently working as a freelance software developer.
+- 🔭 I’m currently working as a freelance web developer for Xbox EMEA marketing campaigns.
 - 🌱 I’m currently learning Backend developement using Express and Node.
 - 👯 I’m looking to collaborate on scalable projects that have an impact in our communities.
-- 🤔 I’m looking for help with getting remote gigs...
 - 💬 Ask me about UI development ...
 - 📫 How to reach me: loktioncode@gmail.com or elishabere4@gmail.com
 - ⚡ Fun fact: I am a self taught programmer
