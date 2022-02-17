@@ -2,7 +2,7 @@
 
 Let's make something special. 👋
 
-- 🔭 I’m currently working as a Web Developer on Xbox Gaming Digital Team.
+- 🔭 I’m currently working as a Web Developer on Xbox Digital Gaming Team.
 - 🌱 I’m currently learning Web3.0 and how i can develop tools for Web3.
 - 👯 I’m looking to collaborate on scalable projects that have an impact in our communities.
 - 💬 Ask me about UI development ...
