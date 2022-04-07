@@ -3,7 +3,7 @@
 Let's make something special. 👋
 
 - 🔭 I’m currently working as a Web Developer on Xbox Digital Gaming Team.
-- 🌱 I’m currently building dapps parttime and .
+- 🌱 I’m currently building Dapps part-time.
 - 👯 I'm learning how I can develop smartcontracts/programs for blockchain solutions that have an impact in our communities.
 - 💬 Ask me about UI development ...
 - 📫 How to reach me: loktioncode@gmail.com or elishabere4@gmail.com
