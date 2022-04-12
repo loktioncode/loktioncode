@@ -1,4 +1,5 @@
 ### Hi there, I am Elisha Bere. I am a Software Developer with a passion for UI effects, animations and creating intuitive, dynamic user experiences. I am well-versed in numerous programming & design techniques that include React, Vue, HTML5, JavaScript, Node, CSS3, SQL, MongoDB, Wordpress, Flutter, Dart and Python amongst other tools.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loktioncode&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 Let's make something special. 👋
 
