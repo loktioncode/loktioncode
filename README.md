@@ -1,4 +1,4 @@
-### Hi there, I am Elisha Bere. I am a software developer with a passion for UI effects, animations and creating intuitive, dynamic user experiences. I am well-versed in numerous programming & design techniques that include React, Vue, HTML5, JavaScript, Node, CSS3, SQL, MongoDB, Wordpress, Flutter, Dart and Python amongst other tools.
+### Hi there, I am Elisha Bere. I am a software developer with a passion for UI effects, animations and creating intuitive, dynamic user experiences. I am well-versed in numerous programming & design techniques that include React, Vanilla Javascript, HTML5, JavaScript, Node, Css3, SQL, MongoDB, WordPress, Flutter, Dart and Python amongst other tools.
 
 
 Let's make something special. 👋
