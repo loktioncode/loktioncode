@@ -1,4 +1,4 @@
-👋 Hi there, I'm Elisha Bere, a software developer with a passion for UI effects, animations, and creating intuitive, dynamic user experiences.
+# Hi there 👋 , I'm Elisha Bere, a software developer with a passion for UI effects, animations, and creating intuitive, dynamic user experiences.
 
 💻 I'm well-versed in numerous programming and design techniques, including React, Vanilla JavaScript, HTML5, Node, CSS3, SQL, MongoDB, WordPress, Flutter, and PythonFlask, among other tools.
 
