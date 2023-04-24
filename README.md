@@ -15,5 +15,3 @@ Let's make something special. 👋
 - 📫 How to reach me: loktioncode@gmail.com or elishabere4@gmail.com
 - ⚡ Fun fact: I am a self taught programmer
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=loktioncode)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loktioncode&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
