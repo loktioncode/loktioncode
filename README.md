@@ -12,7 +12,7 @@ Let's make something special. 👋
 - 🌱 I’m currently building Dapps part-time.
 - 👯 I'm learning how I can develop smartcontracts/programs for blockchain solutions that have an impact in our communities.
 - 💬 Ask me about UI development ...
-- 📫 How to reach me: loktioncode@gmail.com or elishabere4@gmail.com
+- 📫 How to reach me: loktioncode@gmail.com
 - ⚡ Fun fact: I am a self taught programmer
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=loktioncode)](https://git.io/streak-stats)
