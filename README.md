@@ -15,4 +15,3 @@ Let's make something special. 👋
 - 📫 How to reach me: loktioncode@gmail.com
 - ⚡ Fun fact: I am a self taught programmer
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=loktioncode)](https://git.io/streak-stats)
