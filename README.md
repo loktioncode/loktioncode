@@ -9,9 +9,9 @@
 
 Let's make something special. 👋
 
-- 🌱 I’m currently building Dapps part-time.
-- 👯 I'm learning how I can develop smartcontracts/programs for blockchain solutions that have an impact in our communities.
-- 💬 Ask me about UI development ...
+- 🌱 I’m currently building AI AND IOT solutions part-time.
+- 👯 I'm learning how I can develop smart systems in health and agriculture that can have an impact in our communities.
+- 💬 Ask me about UI/Software development ...
 - 📫 How to reach me: loktioncode@gmail.com
 - ⚡ Fun fact: I am a self taught programmer
 
