@@ -2,7 +2,7 @@
 
 💻 I'm well-versed in numerous programming and design techniques, including NextJS, Typesctipt, React, Vanilla JavaScript, HTML5, Node, CSS3, SQL, MongoDB,FastAPI, GO, and PythonFlask, among other tools.
 
-<embed src="https://wakatime.com/share/@loxioncode/c920f226-b975-42a6-8ec9-d6d780973484.svg"></embed><
+<embed src="https://wakatime.com/share/@loxioncode/c920f226-b975-42a6-8ec9-d6d780973484.svg"></embed>
 
 🚀 Whether it's building a new app or enhancing an existing one, I love finding innovative ways to solve problems and create engaging user experiences.
 
